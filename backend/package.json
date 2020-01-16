@@ -26,6 +26,6 @@
     "eslint-plugin-react": "latest",
     "eslint-plugin-react-native": "latest",
     "nodemon": "^2.0.2",
-    "prettier": "latest"
+    "prettier": "^1.19.1"
   }
 }
