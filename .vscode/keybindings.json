@@ -1,0 +1,32 @@
+[
+  {
+    "key": "ctrl+shift+x",
+    "command": "-workbench.view.extensions"
+  },
+  {
+    "key": "ctrl+shift+x",
+    "command": "editor.action.transformToUppercase"
+  },
+  {
+    "key": "ctrl+shift+y",
+    "command": "-workbench.debug.action.toggleRepl"
+  },
+  {
+    "key": "ctrl+shift+y",
+    "command": "editor.action.transformToLowercase"
+  },
+  {
+    "key": "ctrl+shift+k",
+    "command": "-editor.action.deleteLines",
+    "when": "textInputFocus && !editorReadonly"
+  },
+  {
+    "key": "ctrl+d",
+    "command": "editor.action.deleteLines"
+  },
+  {
+    "key": "ctrl+d",
+    "command": "-editor.action.addSelectionToNextFindMatch",
+    "when": "editorFocus"
+  }
+]

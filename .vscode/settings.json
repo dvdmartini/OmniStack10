@@ -1,0 +1,31 @@
+{
+  "breadcrumbs.enabled": true,
+  "editor.fontSize": 12,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.formatOnSave": true,
+  "editor.wordWrapColumn": 1000,
+  "html.format.maxPreserveNewLines": 1,
+  "editor.wrappingIndent": "none",
+  "html.format.wrapLineLength": 0,
+  "window.zoomLevel": 0,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "html.format.endWithNewline": true,
+  "editor.minimap.maxColumn": 1000,
+  "git.showPushSuccessNotification": true,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "files.exclude": {
+    "**/.expo": true
+  },
+  "git.enableSmartCommit": true
+}
