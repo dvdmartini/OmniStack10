@@ -42,7 +42,7 @@ function DevForm({ onSubmit }) {
         <label htmlFor="githut_username">Usúario do Github</label>
         <input
           name="githut_username"
-          id="username_github"
+          id="githut_username"
           required
           value={github_username}
           onChange={e => setGithubUsername(e.target.value)}
@@ -64,7 +64,7 @@ function DevForm({ onSubmit }) {
           <label htmlFor="latitude">Latitude</label>
           <input
             type="number"
-            name="latitute"
+            name="latitude"
             id="latitude"
             required
             value={latitude}
